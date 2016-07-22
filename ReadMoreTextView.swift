@@ -66,7 +66,7 @@ class ReadMoreTextView: UITextView {
     
     var trimTextRangePadding: UIEdgeInsets = UIEdgeInsetsZero
     var appendTrimTextPrefix: Bool = true
-    var trimTextPrefix: String = "..."
+    var trimTextPrefix: String = "See more..."
     
     private var originalText: String!
     
